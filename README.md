@@ -1,5 +1,5 @@
 # Project2
 
-In this project I seek to develop a machine learning model that can predict an employees salary. Unfortunately after much tuning and trying multiple different models I was unable to get R socres over 0.52
-The Ridge model was the final selection at this point. I hope to continue to tune and get better with this model.
-I will revist and continue to tune. 
+In this project I seek to develop a machine learning model that can predict an employees salary. Using only work experience data and job title the model was able to with a high degree of accuaracy predict an employees salary.
+
+Its final R2 score was .99 on the Test set and .97 on the train set. This is a functional model and can with a high degree of certainty predict an employees salary. It can be useful for a company in that they could import a persons experience level and job title and generate a potential salary for a new employee. 
