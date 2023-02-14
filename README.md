@@ -12,3 +12,4 @@ Unsurprisingly executive level employees are paid the most.
 
 Its final R2 score was .99 on the test set and .97 on the train set. This is a functional model and can with a high degree of certainty predict an employees salary. It can be useful for a company in that they could import a persons experience level and job title and generate a potential salary for a new employee. This is very helpful in the HR department and most likely could be expanded to other jobs with additional data for other jobs.
 
+![](https://github.com/sls3542/Project2/blob/main/data.jpg)
